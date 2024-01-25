@@ -1,0 +1,5 @@
+.vscode
+logs
+db.sqlite3
+
+*.pyc
